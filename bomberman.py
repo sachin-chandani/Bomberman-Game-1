@@ -62,3 +62,4 @@ while(1):
 			bomPos[1] = playerPos[1]
 			bomPos[2] = 3
 			bom.drawBomb()
+			
